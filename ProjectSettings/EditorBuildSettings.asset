@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MidtermProject.unity
-    guid: 9f90d67aca8f143c7b569495745f305b
+    path: Assets/MainScene.unity
+    guid: 7fa7c0d370fa7934d997dbf59fccbf40
+  - enabled: 1
+    path: Assets/Scenes/Bordwalk part one.unity
+    guid: 87e25b8629e970b4ab8fb59d53409670
+  - enabled: 1
+    path: Assets/Hall of mirrors.unity
+    guid: d62f1c55d136acb4bab12d24071f582e
+  - enabled: 1
+    path: Assets/Bumber cars.unity
+    guid: cb07d72c1cfb37d43be95cc59268169f
+  - enabled: 1
+    path: Assets/Tunnel of love.unity
+    guid: 906a1ff1bf733e0488d395795fd5769d
   m_configObjects: {}
